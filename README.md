@@ -14,7 +14,7 @@ Projeto desenvolvido em React consumindo a API pública de Dragon Ball para exib
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - React
 - Vite
@@ -27,7 +27,7 @@ Projeto desenvolvido em React consumindo a API pública de Dragon Ball para exib
 
 ---
 
-## 📦 API utilizada
+##  API utilizada
 
 API pública:
 
